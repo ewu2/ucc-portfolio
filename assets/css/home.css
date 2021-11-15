@@ -1,0 +1,12 @@
+body {
+  background-image: url("../images/ucc-bg.jpg");
+  background-size: 100%;
+}
+
+.subtitle {
+  color: whitesmoke;
+  text-shadow: 1px 1px 10px #000000;
+  font-size: 50px;
+  letter-spacing: 5px;
+  padding: 10px;
+}
